@@ -1,0 +1,2 @@
+# ScratchTest
+Scratch Extension Test
